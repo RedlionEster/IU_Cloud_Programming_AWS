@@ -151,4 +151,4 @@ To avoid incurring charges, you can remove the resources when they’re no longe
 terraform destroy
 ```
 - Confirm with "yes" to destroy all resources.
-- 
+
