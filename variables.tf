@@ -5,7 +5,7 @@ variable "project_name" {
 
 variable "aws_region" {
   description = "AWS region for resource deployment"
-  default     = "us-west-2"  # Update if needed
+  default     = "eu-central-1"  # Update if needed
 }
 variable "mime_types" {
   type = map(string)
